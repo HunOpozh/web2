@@ -7,3 +7,34 @@
   
   2)
   неавторизированный пользователь
+  ![alt text](images/bl.png)
+
+
+  авторизированный пользователь
+  ![alt text](images/al.png)
+  
+  форма регистрации
+  ![alt text](images/reg.png)
+  
+  форма авторизации
+  ![alt text](images/auth.png)
+  
+  личный кабинет
+  ![alt text](images/lk.png)
+  
+  после успешной регистрации
+  ![alt text](images/usp.png)
+  
+  ошибка авторизации
+  ![alt text](images/err.png)
+  
+  3)
+  ![alt text](images/bd.jpg)
+  
+  4)
+  Честно говоря не уверен то ли это,что нужно,но вот
+  ![alt text](images/mass.jpg)
+  
+  5 и 6)
+  
+  все файлы проекта в папке project
